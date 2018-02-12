@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Aadhaar-Udhaar</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_borrow">Borrow</string>
+    <string name="title_activity_lend">Lend</string>
+    <string name="title_activity_addor_edit_lend">Add Borrower/Lender</string>
+    <string name="person_name">Personal Details</string>
+    <string name="borrow_name">Enter your name here</string>
+    <string name="borrow_ph_no">phone number</string>
+    <string name="amount">Amount</string>
+    <string name="amt_placeholder">enter amount</string>
+    <string name="due_date">Due Date</string>
+    <string name="comments">Comments</string>
+    <string name="interest">Interest(if any)</string>
+    <string name="interest_percentage">enter interest in %</string>
+    <string name="Authentication">Authentication Details</string>
+    <string name="uid">Aadhaar ID</string>
+    <string name="address">address</string>
+    <string name="state">state</string>
+    <string name="postal">postal code</string>
+    <string name="date_format">dd/mm/yyyy</string>
+</resources>
